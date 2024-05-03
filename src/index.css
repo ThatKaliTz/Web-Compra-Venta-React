@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .animate-scale-out {
+    @apply hover:scale-x-110 hover:scale-y-105 transition duration-300 ease-out;
+  }
+}

@@ -1,0 +1,21 @@
+** Navbar
+  - Menu desplegable
+** Inicio
+  - Que cuando le piques a un producto, mande como Query el ID del
+    producto y le pase la info a Product.jsx
+  - Esta bug el banner
+** Product
+  - Validar el corazon marcado
+  - Hacer q devuelvan IDs al añadir al carrito
+  - Poner boton cuando el tipoVenta sea por cotización
+  - Si es por cotización, el usuario (vendedor) tiene que tener una opcion donde seleccione el producto y detalles de la venta
+** Perfil
+  - Opcion perfil privado
+  - Diferencias ver MI perfil a ver perfil DE
+  - Eliminar producto
+** Pantalla de chat
+
+*** Agregar tipo de venta
+*** PaymentState
+  - Hacer q no pueda entrar por link
+!!! Perfil de diferencia entre Cliente, Vendedor y Admin
